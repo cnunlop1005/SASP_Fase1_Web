@@ -1,3 +1,0 @@
-# Reflexiones
-
-Como programador o técnico, tengo una responsabilidad directa en la sostenibilidad digital, ya que cada línea de código y cada decisión técnica tiene un impacto. Puedo aplicar prácticas como escribir software eficiente, reducir el consumo de recursos, fomentar el uso de energías renovables y promover la accesibilidad. Las empresas tecnológicas tienen un papel clave al invertir en innovación sostenible y adoptar políticas responsables. Sin embargo, aún cuesta aplicar estas medidas por costes iniciales, falta de concienciación y presión del mercado. Personalmente, estoy dispuesto a formarme en sostenibilidad, optimizar mis desarrollos y apoyar proyectos tecnológicos con impacto positivo a largo plazo.
